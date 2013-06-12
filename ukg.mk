@@ -16,7 +16,7 @@
 #
 
 # name
-PRODUCT_RELEASE_NAME := CANGS4
+PRODUCT_RELEASE_NAME := jfltecan
 
 # device
 $(call inherit-product-if-exists, device/samsung/jfltecan/full_jfltecan.mk)
